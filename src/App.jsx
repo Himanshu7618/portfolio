@@ -35,7 +35,7 @@ const App = () => {
       description:
         "A modern and responsive personal portfolio website built with React.js and Tailwind CSS to showcase projects, skills, and professional achievements. Features a clean UI, smooth navigation",
       tech: ["React", "Tailwind CSS", "JavaScript"],
-      github: "https://github.com/",
+      github: "https://github.com/Himanshu7618/portfolio.git",
       live: "https://example.com",
       image: portfolioPhoto,
     },

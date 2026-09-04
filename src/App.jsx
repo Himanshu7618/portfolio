@@ -17,8 +17,8 @@ const App = () => {
       description:
         "Developed a MERN Stack based Hostel Management System to streamline hostel operations, including student registration, room management, occupancy tracking, and secure data management.",
       tech: ["React", "Node.js","Express.js", "MongoDB"],
-      github: "https://github.com/Himanshu7618/HMS.git",
-      live: "https://example.com",
+      github: "https://github.com/Himanshu7618/Hostel-Management-System",
+      live: "https://hostel-management-system-acme209.vercel.app",
       image: hostelPhoto,
     },
     {

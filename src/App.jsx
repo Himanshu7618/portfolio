@@ -36,7 +36,7 @@ const App = () => {
         "A modern and responsive personal portfolio website built with React.js and Tailwind CSS to showcase projects, skills, and professional achievements. Features a clean UI, smooth navigation",
       tech: ["React", "Tailwind CSS", "JavaScript"],
       github: "https://github.com/Himanshu7618/portfolio.git",
-      live: "https://example.com",
+      live: "https://portfolio-coral-nu-64.vercel.app",
       image: portfolioPhoto,
     },
   ];
@@ -119,7 +119,7 @@ const skills = [
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/himanshu_resume1.pdf"
             className="border border-cyan-400 px-6 py-3 rounded-xl flex items-center gap-2 hover:bg-cyan-400 hover:text-black transition"
           >
             <Download size={18} />

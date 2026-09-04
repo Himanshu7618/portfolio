@@ -120,7 +120,7 @@ const skills = [
 
           <a
             href="/himanshu_resume1.pdf"
-            download
+            download="himanshu_resume1.pdf"
             className="border border-cyan-400 px-6 py-3 rounded-xl flex items-center gap-2 hover:bg-cyan-400 hover:text-black transition"
           >
             <Download size={18} />
